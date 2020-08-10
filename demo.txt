@@ -6,3 +6,5 @@ git log
 git command
 
 git stash apply
+
+tag command checking
