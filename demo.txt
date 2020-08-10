@@ -8,3 +8,8 @@ git command
 git stash apply
 
 tag command checking
+
+
+fork
+revert reset
+merge rebase
